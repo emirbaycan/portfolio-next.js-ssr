@@ -1,0 +1,415 @@
+{
+    "pages": {
+        "home": {
+            "title": "Home",
+            "description": "Welcome to my portfolio website.",
+            "metadata": {
+                "title": "Home",
+                "description": "Emir Baycan's portfolio website."
+            },
+            "name": "Emir Baycan",
+            "jobTitle": "Software Developer",
+            "avatarAlt": "Emir Baycan - Software Developer Portfolio",
+            "intro": "Full-stack, AI, and automation focused portfolio. See my projects and career timeline.",
+            "githubBtn": "GitHub",
+            "contactBtn": "Contact",
+            "githubAria": "View Emir Baycan's GitHub profile",
+            "contactAria": "Contact Emir Baycan",
+            "softwareName": "Emir Baycan Portfolio Template",
+            "softwareCategory": "DeveloperApplication",
+            "softwareOS": "Web",
+            "softwarePrice": "0",
+            "softwareCurrency": "USD",
+            "scrollDownAria": "Scroll down",
+            "siteUrl": "https://vue.emirbaycan.com.tr",
+            "ogImage": "https://assets.emirbaycan.com.tr/images/kalenuxer/1.webp",
+            "githubUrl": "https://github.com/emirbaycan",
+            "twitterUrl": "https://linkedin.com/in/emirbaycan",
+            "keywords": [
+                "Emir Baycan",
+                "Software Developer",
+                "Full Stack Developer",
+                "Web Developer Portfolio",
+                "AI Portfolio",
+                "React",
+                "Next.js",
+                "Developer portfolio template",
+                "Portfolio website template",
+                "Modern portfolio website",
+                "Frontend developer portfolio",
+                "Backend developer portfolio",
+                "Open source portfolio template",
+                "Automation",
+                "Cloud Developer",
+                "Portfolio with dark mode",
+                "GitHub portfolio template"
+            ],
+            "manifest": {
+                "name": "Emir Baycan Portfolio",
+                "shortName": "Emir's Portfolio",
+                "description": "Emir Baycan's modern developer portfolio built with a custom stack - open source template"
+            },
+            "paths": {
+                "skills": "skills",
+                "experience": "experience",
+                "career": "career",
+                "contributions": "contributions",
+                "contact": "contact",
+                "resume": "resume"
+            }
+        },
+        "skills": {
+            "title": "Skills",
+            "description": "Key skills that define my professional identity.",
+            "metadata": {
+                "title": "Skills",
+                "description": "Emir Baycan's key skills and technologies."
+            },
+            "viewAll": "View All",
+            "viewAllAria": "View all skills"
+        },
+        "experience": {
+            "title": "Experience",
+            "description": "Highlighting career journey and impactful projects.",
+            "metadata": {
+                "title": "Experience",
+                "description": "Emir Baycan's experience in building web and AI applications."
+            },
+            "tabs": {
+                "all": "All",
+                "personal": "Personal",
+                "professional": "Professional"
+            },
+            "backAllExperience": "All Experience",
+            "techStack": "Tech Stack",
+            "description": "Description",
+            "pageInfo": "Page Info",
+            "githubTooltip": "Link to the source code.",
+            "websiteTooltip": "Please note that some project links may be temporarily unavailable.",
+            "viewAll": "View All",
+            "viewAllAria": "View all experiences"
+        },
+        "contact": {
+            "title": "Contact",
+            "description": "Let's connect and explore collaborations.",
+            "metadata": {
+                "title": "Contact",
+                "description": "Contact Emir Baycan."
+            }
+        },
+        "contributions": {
+            "title": "Contributions",
+            "description": "Open-source contributions and community involvement.",
+            "metadata": {
+                "title": "Contributions",
+                "description": "Emir Baycan's open-source contributions and community involvement."
+            },
+            "viewAll": "View All",
+            "viewAllAria": "View all contributions"
+        },
+        "resume": {
+            "title": "Resume",
+            "description": "Emir Baycan's resume.",
+            "metadata": {
+                "title": "Resume",
+                "description": "Emir Baycan's resume."
+            },
+            "redirecting": "Redirecting to the resume..."
+        },
+        "career": {
+            "title": "Career Timeline",
+            "description": "Professional journey and experience timeline.",
+            "metadata": {
+                "title": "Career Timeline",
+                "description": "Emir Baycan's professional journey and career timeline."
+            },
+            "backAllCareerExperience": "All Career Experience",
+            "back": "Back",
+            "present": "Present",
+            "summary": "Summary",
+            "achievements": "Achievements",
+            "skills": "Skills",
+            "skillsTabDescription": "These are the primary technologies and skills utilized during my time at {company}."
+        }
+    },
+    "career": [
+        {
+            "id": "karalar-kagit",
+            "position": "Software Specialist",
+            "company": "Karalar Kağıt",
+            "location": "Turkey",
+            "startDate": "2024-09-01",
+            "endDate": "2024-11-30",
+            "description": [
+                "Took full responsibility for the analysis and development of corporate web projects.",
+                "Developed and deployed custom modules according to client requirements.",
+                "Contributed to integration and technical documentation processes with cross-functional teams."
+            ],
+            "achievements": [],
+            "skills": [
+                "C#",
+                "Node.js",
+                "SQL"
+            ],
+            "companyUrl": "",
+            "logo": ""
+        },
+        {
+            "id": "myp-law",
+            "position": "Software Specialist",
+            "company": "My Partners Law Office",
+            "location": "Turkey",
+            "startDate": "2024-01-01",
+            "endDate": "Present",
+            "description": [
+                "Responsible for planning, development, and maintenance of digital infrastructure and automation projects.",
+                "Optimized customer management, dynamic panels, and document automation systems in the legal domain.",
+                "Provided custom control panel and user management using the Kalenuxer infrastructure."
+            ],
+            "achievements": [],
+            "skills": [
+                "C#",
+                "Node.js",
+                "React"
+            ],
+            "companyUrl": "https://myp.emirbaycan.com.tr",
+            "logo": ""
+        },
+        {
+            "id": "eyup-sultan-tulumbacisi",
+            "position": "Web Developer",
+            "company": "Eyüp Sultan Tulumbacısı",
+            "location": "Turkey",
+            "startDate": "2022-10-01",
+            "endDate": "2022-12-31",
+            "description": [
+                "Played an active role in the design, development, and deployment of web and e-commerce platforms.",
+                "Created modules focused on product management and customer experience."
+            ],
+            "achievements": [],
+            "skills": [
+                "React",
+                "Node.js",
+                "SQL"
+            ],
+            "companyUrl": "",
+            "logo": ""
+        },
+        {
+            "id": "legal-proficiency-academy",
+            "position": "Software Specialist",
+            "company": "Legal Proficiency Academy",
+            "location": "Turkey",
+            "startDate": "2022-03-01",
+            "endDate": "2023-08-31",
+            "description": [
+                "Analyzed and developed user and exam modules for a comprehensive educational platform.",
+                "Designed panels with multi-level user access and real-time update features."
+            ],
+            "achievements": [],
+            "skills": [
+                "C#",
+                "Node.js",
+                "React"
+            ],
+            "companyUrl": "https://hya.emirbaycan.com.tr",
+            "logo": ""
+        }
+    ],
+    "validSkills": [
+        "C#",
+        "Python",
+        "Node.js",
+        "React",
+        "Angular",
+        "JavaScript",
+        "TypeScript",
+        "PHP",
+        "SQL",
+        "MySQL",
+        "AI",
+        "Docker",
+        "Selenium",
+        "TensorFlow",
+        "PyTorch",
+        "OpenCV",
+        "Vue.js",
+        "Tailwind CSS",
+        "HTML 5",
+        "CSS 3"
+    ],
+    "validCategory": [
+        "Full Stack",
+        "Frontend",
+        "Backend",
+        "UI/UX",
+        "Web Dev",
+        "Automation",
+        "Artificial Intelligence",
+        "Education"
+    ],
+    "validExpType": [
+        "Personal Project",
+        "Professional"
+    ],
+    "validPages": [
+        "home",
+        "skills",
+        "experience",
+        "career",
+        "contact",
+        "contributions",
+        "resume"
+    ],
+    "contributionsUnsorted": [
+        {
+            "repo": "kalenuxer",
+            "contibutionDescription": "Released and open-sourced a next-generation, modular web framework for rapid development.",
+            "repoOwner": "Emir Baycan",
+            "link": "https://github.com/emirbaycan/Kalenuxer"
+        }
+    ],
+    "Experiences": [
+        {
+            "id": "myp-law",
+            "companyName": "My Partners Law Office",
+            "type": "Professional",
+            "category": ["Web Dev", "Full Stack"],
+            "shortDescription": "Built digital automation infrastructure and custom management panels for the law sector.",
+            "websiteLink": "https://myp.emirbaycan.com.tr",
+            "techStack": ["C#", "Node.js", "React", "Kalenuxer", "SQL"],
+            "startDate": "2024-01-01",
+            "endDate": "Present",
+            "companyLogoImg": "https://assets.emirbaycan.com.tr/images/myp/1.webp",
+            "pagesInfoArr": [
+                {
+                    "title": "Custom Panel",
+                    "description": "Law office control and automation panels with dynamic data.",
+                    "imgArr": [
+                        "https://assets.emirbaycan.com.tr/images/myp/1.webp"
+                    ]
+                }
+            ],
+            "descriptionDetails": {
+                "paragraphs": [
+                    "Designed and maintained a full-stack digital panel infrastructure for a major law office. Integrated document management, user automation, and custom business rules for legal workflows.",
+                    "Provided custom control panels using Kalenuxer stack, built for scalable, reliable law operations."
+                ],
+                "bullets": [
+                    "Developed automation and client management panels.",
+                    "Migrated manual processes to web infrastructure.",
+                    "Optimized legal document workflow and user management."
+                ]
+            }
+        }
+    ],
+    "routesConfig": {
+        "mainNav": [
+            {
+                "title": "Skills",
+                "href": "/skills"
+            },
+            {
+                "title": "Experience",
+                "href": "/experience"
+            },
+            {
+                "title": "Career",
+                "href": "/career"
+            },
+            {
+                "title": "Contributions",
+                "href": "/contributions"
+            },
+            {
+                "title": "Contact",
+                "href": "/contact"
+            }
+        ]
+    },
+    "siteConfig": {
+        "name": "Emir Baycan | Developer Portfolio",
+        "authorName": "Emir Baycan",
+        "username": "emirbaycan",
+        "description": "Emir Baycan's portfolio - A modern, responsive, full-stack developer portfolio. This open-source template showcases projects, skills, and career timeline.",
+        "url": "https://vue.emirbaycan.com.tr",
+        "links": {
+            "linkedin": "https://linkedin.com/in/emirbaycan",
+            "github": "https://github.com/emirbaycan"
+        },
+        "ogImage": "https://assets.emirbaycan.com.tr/images/kalenuxer/1.webp",
+        "iconIco": "https://assets.emirbaycan.com.tr/favicon.ico",
+        "logoIcon": "https://assets.emirbaycan.com.tr/logo.png",
+        "keywords": [
+            "Emir Baycan",
+            "Software Developer",
+            "Full Stack Developer",
+            "Web Developer Portfolio",
+            "AI Portfolio",
+            "React",
+            "Next.js",
+            "Developer portfolio template",
+            "Portfolio website template",
+            "Modern portfolio website",
+            "Frontend developer portfolio",
+            "Backend developer portfolio",
+            "Open source portfolio template",
+            "Automation",
+            "Cloud Developer",
+            "Portfolio with dark mode",
+            "GitHub portfolio template"
+        ]
+    },
+    "skillsUnsorted": [
+        {
+            "name": "C#",
+            "description": "Advanced backend development, automation, and web APIs.",
+            "rating": 5,
+            "icon": "Icons.csharp"
+        },
+        {
+            "name": "Python",
+            "description": "AI, machine learning, automation, and backend solutions.",
+            "rating": 5,
+            "icon": "Icons.python"
+        },
+        {
+            "name": "Node.js",
+            "description": "Scalable backend and REST API development.",
+            "rating": 5,
+            "icon": "Icons.nodejs"
+        },
+        {
+            "name": "React",
+            "description": "Modern, responsive UIs for web and SPA projects.",
+            "rating": 5,
+            "icon": "Icons.react"
+        },
+        {
+            "name": "AI",
+            "description": "Computer vision, deep learning, and intelligent automation.",
+            "rating": 5,
+            "icon": "Icons.ai"
+        }
+    ],
+    "SocialLinks": [
+        {
+            "name": "Github",
+            "username": "@emirbaycan",
+            "icon": "Icons.gitHub",
+            "link": "https://github.com/emirbaycan"
+        },
+        {
+            "name": "LinkedIn",
+            "username": "Emir Baycan",
+            "icon": "Icons.linkedin",
+            "link": "https://linkedin.com/in/emirbaycan"
+        },
+        {
+            "name": "Mail",
+            "username": "emir-baycan",
+            "icon": "Icons.gmail",
+            "link": "mailto:emir-baycan@hotmail.com"
+        }
+    ]
+}

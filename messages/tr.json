@@ -1,0 +1,1074 @@
+{
+    "pages": {
+      "home": {
+        "title": "Ana Sayfa",
+        "description": "Portföy web siteme hoş geldiniz.",
+        "metadata": {
+          "title": "Ana Sayfa",
+          "description": "Emir Baycan'ın portföy web sitesi."
+        },
+        "name": "Emir Baycan",
+        "jobTitle": "Yazılım Geliştirici",
+        "avatarAlt": "Emir Baycan - Yazılım Geliştirici Portföyü",
+        "intro": "Full-stack, yapay zeka ve otomasyon odaklı portföy. Projelerimi ve kariyerimi inceleyin.",
+        "githubBtn": "GitHub",
+        "contactBtn": "İletişim",
+        "githubAria": "Emir Baycan'ın GitHub profilini görüntüle",
+        "contactAria": "Emir Baycan ile iletişime geç",
+        "softwareName": "Emir Baycan Portföy Şablonu",
+        "softwareCategory": "GeliştiriciUygulaması",
+        "softwareOS": "Web",
+        "softwarePrice": "0",
+        "softwareCurrency": "USD",
+        "scrollDownAria": "Aşağı kaydır",
+        "siteUrl": "http://localhost:3000",
+        "ogImage": "https://assets.emirbaycan.com.tr/images/kalenuxer/1.webp",
+        "githubUrl": "https://github.com/emirbaycan",
+        "twitterUrl": "https://linkedin.com/in/emirbaycan",
+        "keywords": [
+          "Emir Baycan",
+          "Yazılım Geliştirici",
+          "Full Stack Geliştirici",
+          "Web Geliştirici Portföyü",
+          "Yapay Zeka Portföyü",
+          "React",
+          "Next.js",
+          "Geliştirici portföy şablonu",
+          "Portföy web sitesi şablonu",
+          "Modern portföy web sitesi",
+          "Frontend geliştirici portföyü",
+          "Backend geliştirici portföyü",
+          "Açık kaynak portföy şablonu",
+          "Otomasyon",
+          "Bulut Geliştirici",
+          "Karanlık modlu portföy",
+          "GitHub portföy şablonu"
+        ],
+        "manifest": {
+          "name": "Emir Baycan Portföy",
+          "shortName": "Emir’in Portföyü",
+          "description": "Emir Baycan’ın modern geliştirici portföyü – özel stack ile açık kaynaklı şablon"
+        },
+        "paths": {
+          "skills": "yetenekler",
+          "experience": "deneyim",
+          "career": "kariyer",
+          "contributions": "katkilar",
+          "contact": "iletisim",
+          "resume": "ozgecmis"
+        }
+      },
+      "skills": {
+        "title": "Yetenekler",
+        "description": "Profesyonel kimliğimi tanımlayan temel yetenekler.",
+        "metadata": {
+          "title": "Yetenekler",
+          "description": "Emir Baycan'ın temel yetenekleri ve teknolojileri."
+        },
+        "viewAll": "Tümünü Gör",
+        "viewAllAria": "Tüm yetenekleri görüntüle"
+      },
+      "experience": {
+        "title": "Deneyim",
+        "metadata": {
+          "title": "Deneyim",
+          "description": "Emir Baycan’ın web ve yapay zeka uygulamalarındaki deneyimi."
+        },
+        "tabs": {
+          "all": "Tümü",
+          "personal": "Kişisel",
+          "professional": "Profesyonel"
+        },
+        "backAllExperience": "Tüm Deneyimler",
+        "techStack": "Teknoloji Yığını",
+        "description": "Açıklama",
+        "pageInfo": "Sayfa Bilgisi",
+        "githubTooltip": "Kaynak koda bağlantı.",
+        "websiteTooltip": "Bazı proje bağlantıları geçici olarak erişilemeyebilir.",
+        "viewAll": "Tümünü Gör",
+        "viewAllAria": "Tüm deneyimleri görüntüle"
+      },
+      "contact": {
+        "title": "İletişim",
+        "description": "Bağlantı kuralım ve iş birliği imkanlarını konuşalım.",
+        "metadata": {
+          "title": "İletişim",
+          "description": "Emir Baycan ile iletişim."
+        }
+      },
+      "contributions": {
+        "title": "Katkılar",
+        "description": "Açık kaynak katkılar ve topluluk çalışmaları.",
+        "metadata": {
+          "title": "Katkılar",
+          "description": "Emir Baycan’ın açık kaynak katkıları ve topluluk katılımı."
+        },
+        "viewAll": "Tümünü Gör",
+        "viewAllAria": "Tüm katkıları görüntüle"
+      },
+      "resume": {
+        "title": "Özgeçmiş",
+        "description": "Emir Baycan’ın özgeçmişi.",
+        "metadata": {
+          "title": "Özgeçmiş",
+          "description": "Emir Baycan’ın özgeçmişi."
+        },
+        "redirecting": "Özgeçmişe yönlendiriliyor..."
+      },
+      "career": {
+        "title": "Kariyer Zaman Çizelgesi",
+        "description": "Profesyonel yolculuk ve deneyim zaman çizelgesi.",
+        "metadata": {
+          "title": "Kariyer Zaman Çizelgesi",
+          "description": "Emir Baycan’ın profesyonel yolculuğu ve kariyer zaman çizelgesi."
+        },
+        "backAllCareerExperience": "Tüm Kariyer Deneyimi",
+        "back": "Geri",
+        "present": "Günümüz",
+        "summary": "Özet",
+        "achievements": "Başarılar",
+        "skills": "Yetenekler",
+        "skillsTabDescription": "{company} bünyesindeki ana teknoloji ve becerilerim."
+      }
+    },
+    "career": [
+      {
+        "id": "karalar-kagit",
+        "position": "Yazılım Uzmanı",
+        "company": "Karalar Kağıt",
+        "location": "Türkiye",
+        "startDate": "2024-09-01",
+        "endDate": "2024-11-30",
+        "description": [
+          "Kurumsal web projelerinin analizi ve geliştirilmesinin tüm sorumluluğunu üstlendim.",
+          "Müşteri gereksinimlerine göre özel modüller geliştirdim ve devreye aldım.",
+          "Çapraz fonksiyonel ekiplerle entegrasyon ve teknik dokümantasyon süreçlerine katkıda bulundum."
+        ],
+        "achievements": [],
+        "skills": [
+          "C#",
+          "Node.js",
+          "SQL"
+        ],
+        "companyUrl": "",
+        "logo": ""
+      },
+      {
+        "id": "myp-law",
+        "position": "Yazılım Uzmanı",
+        "company": "My Partners Law Office",
+        "location": "Türkiye",
+        "startDate": "2024-01-01",
+        "endDate": "Günümüz",
+        "description": [
+          "Dijital altyapı ve otomasyon projelerinin planlanması, geliştirilmesi ve bakımı konusunda sorumluyum.",
+          "Hukuk alanında müşteri yönetimi, dinamik paneller ve doküman otomasyon sistemlerini optimize ettim.",
+          "Kalenuxer altyapısını kullanarak özel kontrol paneli ve kullanıcı yönetimi sağladım."
+        ],
+        "achievements": [],
+        "skills": [
+          "C#",
+          "Node.js",
+          "React"
+        ],
+        "companyUrl": "https://myp.emirbaycan.com.tr",
+        "logo": ""
+      },
+      {
+        "id": "eyup-sultan-tulumbacisi",
+        "position": "Web Geliştirici",
+        "company": "Eyüp Sultan Tulumbacısı",
+        "location": "Türkiye",
+        "startDate": "2022-10-01",
+        "endDate": "2022-12-31",
+        "description": [
+          "Web ve e-ticaret platformlarının tasarım, geliştirme ve yayına alınmasında aktif rol aldım.",
+          "Ürün yönetimi ve müşteri deneyimi odaklı modüller oluşturdum."
+        ],
+        "achievements": [],
+        "skills": [
+          "React",
+          "Node.js",
+          "SQL"
+        ],
+        "companyUrl": "",
+        "logo": ""
+      },
+      {
+        "id": "legal-proficiency-academy",
+        "position": "Yazılım Uzmanı",
+        "company": "Legal Proficiency Academy",
+        "location": "Türkiye",
+        "startDate": "2022-03-01",
+        "endDate": "2023-08-31",
+        "description": [
+          "Kapsamlı bir eğitim platformu için kullanıcı ve sınav modüllerinin analizini ve geliştirmesini yaptım.",
+          "Çok seviyeli kullanıcı erişimi ve gerçek zamanlı güncelleme özelliklerine sahip paneller tasarladım."
+        ],
+        "achievements": [],
+        "skills": [
+          "C#",
+          "Node.js",
+          "React"
+        ],
+        "companyUrl": "https://hya.emirbaycan.com.tr",
+        "logo": ""
+      },
+      {
+        "id": "therapy-clinic",
+        "position": "Yazılım Uzmanı",
+        "company": "Terapi Kliniği",
+        "location": "Türkiye",
+        "startDate": "2022-02-01",
+        "endDate": "2022-04-30",
+        "description": [
+          "Müşteri takip sistemleri ve online randevu altyapısı geliştirme üzerine çalıştım.",
+          "Laravel tabanlı dinamik web siteleri ve içerik yönetimi uyguladım."
+        ],
+        "achievements": [],
+        "skills": [
+          "PHP",
+          "JavaScript",
+          "MySQL"
+        ],
+        "companyUrl": "",
+        "logo": ""
+      },
+      {
+        "id": "morkoc-law-office",
+        "position": "Yazılım Uzmanı",
+        "company": "Morkoç Hukuk Bürosu",
+        "location": "Türkiye",
+        "startDate": "2021-07-01",
+        "endDate": "2021-09-30",
+        "description": [
+          "Döküman yönetim sistemleri ve online danışmanlık modüllerinin geliştirilmesinde aktif rol aldım."
+        ],
+        "achievements": [],
+        "skills": [
+          "PHP",
+          "JavaScript",
+          "MySQL"
+        ],
+        "companyUrl": "",
+        "logo": ""
+      },
+      {
+        "id": "kalenux",
+        "position": "CEO",
+        "company": "Kalenux",
+        "location": "Türkiye",
+        "startDate": "2021-02-01",
+        "endDate": "2023-02-28",
+        "description": [
+          "Tüm yazılım geliştirme, ekip yönetimi ve iş geliştirme süreçlerine liderlik ettim.",
+          "Mikroservis ve full-stack uygulama mimarileri kurarak yenilik odaklı projeler yönettim."
+        ],
+        "achievements": [],
+        "skills": [
+          "PHP",
+          "JavaScript",
+          "MySQL"
+        ],
+        "companyUrl": "",
+        "logo": ""
+      },
+      {
+        "id": "karalar-prefabricated",
+        "position": "Yazılım Uzmanı",
+        "company": "Karalar Prefabrik",
+        "location": "Türkiye",
+        "startDate": "2020-09-01",
+        "endDate": "2020-11-30",
+        "description": [
+          "Kurumsal web sitesi ve müşteri iletişim sistemlerinin analiz ve geliştirilmesinde aktif rol aldım."
+        ],
+        "achievements": [],
+        "skills": [
+          "PHP",
+          "JavaScript",
+          "MySQL"
+        ],
+        "companyUrl": "",
+        "logo": ""
+      },
+      {
+        "id": "legal-education-programs",
+        "position": "Web Yazılım Uzmanı",
+        "company": "Hukuk Eğitim Programları",
+        "location": "Türkiye",
+        "startDate": "2020-01-01",
+        "endDate": "2021-01-31",
+        "description": [
+          "Eğitim programlarına yönelik web tabanlı yazılım çözümleri geliştirdim."
+        ],
+        "achievements": [],
+        "skills": [
+          "PHP",
+          "JavaScript",
+          "MySQL"
+        ],
+        "companyUrl": "https://hep.emirbaycan.com.tr",
+        "logo": ""
+      },
+      {
+        "id": "do-eloboost",
+        "position": "Yazılım Uzmanı",
+        "company": "Do Eloboost",
+        "location": "Türkiye",
+        "startDate": "2019-01-01",
+        "endDate": "2023-01-31",
+        "description": [
+          "Oyun tabanlı platformun yazılım altyapısının geliştirilmesinden ve otomasyonundan sorumluydum.",
+          "Yönetim panelleri ve müşteri otomasyon modülleri tasarladım."
+        ],
+        "achievements": [],
+        "skills": [
+          "PHP",
+          "JavaScript",
+          "MySQL"
+        ],
+        "companyUrl": "",
+        "logo": ""
+      },
+      {
+        "id": "murat-bulat-law-office",
+        "position": "Yazılım Uzmanı",
+        "company": "Murat Bulat Hukuk Bürosu",
+        "location": "Türkiye",
+        "startDate": "2019-01-01",
+        "endDate": "2019-04-30",
+        "description": [
+          "Web tabanlı yazılım ve otomasyon sistemlerinin geliştirilmesine katkıda bulundum."
+        ],
+        "achievements": [],
+        "skills": [
+          "PHP",
+          "JavaScript",
+          "MySQL"
+        ],
+        "companyUrl": "",
+        "logo": ""
+      },
+      {
+        "id": "entrepreneur-lawyers-association",
+        "position": "Yazılım Uzmanı",
+        "company": "Girişimci Avukatlar Derneği",
+        "location": "Türkiye",
+        "startDate": "2018-01-01",
+        "endDate": "2019-01-31",
+        "description": [
+          "Derneğe özel dijital projelerin planlanması ve geliştirilmesinde aktif rol aldım."
+        ],
+        "achievements": [],
+        "skills": [
+          "PHP",
+          "JavaScript",
+          "MySQL"
+        ],
+        "companyUrl": "",
+        "logo": ""
+      }
+    ],
+    "validSkills": [
+      "C#", "Python", "Node.js", "React", "Angular", "JavaScript", "TypeScript", "PHP", "SQL", "MySQL",
+      "Yapay Zeka", "Docker", "Selenium", "TensorFlow", "PyTorch", "OpenCV", "Vue.js", "Tailwind CSS",
+      "HTML 5", "CSS 3", "FastAPI", "Flask", "Django", "Pandas", "NumPy", "Matplotlib", "Scikit-learn",
+      "Three.js", "Redux", "Next.js", "Express.js", "MongoDB", "AWS", "Azure", "Google Cloud",
+      "Linux", "Ubuntu", "Apache", "Nginx", "Jupyter", "Shell Script", "PowerShell", "SASS", "Less",
+      "Bootstrap", "Figma", "Photoshop"
+    ],
+    "validCategory": [
+      "Full Stack", "Frontend", "Backend", "UI/UX", "Web Geliştirme", "Otomasyon", "Yapay Zeka", "Eğitim"
+    ],
+    "validExpType": [
+      "Kişisel Proje", "Profesyonel"
+    ],
+    "validPages": [
+      "home", "skills", "experience", "career", "contact", "contributions", "resume"
+    ],
+    "contributionsUnsorted": [
+      {
+        "repo": "kalenuxer",
+        "contributionDescription": "Hızlı geliştirme için yeni nesil, modüler bir web framework’ünü yayımlayıp açık kaynaklı yaptım.",
+        "repoOwner": "Emir Baycan",
+        "link": "https://github.com/emirbaycan/Kalenuxer"
+      },
+      {
+        "repo": "yolo_digital_screen_detector",
+        "contributionDescription": "YOLO ve Python kullanarak canlı kamera görüntülerinden dijital ekranların gerçek zamanlı tespiti.",
+        "repoOwner": "Emir Baycan",
+        "link": "https://github.com/emirbaycan/yolo_digital_screen_detector"
+      },
+      {
+        "repo": "ocr_digital_screen_reader",
+        "contributionDescription": "Canlı video akışında dijital ekranların otomatik algılanması ve OCR ile okunması.",
+        "repoOwner": "Emir Baycan",
+        "link": "https://github.com/emirbaycan/ocr_digital_screen_reader"
+      },
+      {
+        "repo": "digital_screen_alarm_with_rtsp_camera",
+        "contributionDescription": "RTSP kamerası ile gerçek zamanlı dijital ekran izleme ve eşik aşımında görsel yakalama ve uyarı sistemi.",
+        "repoOwner": "Emir Baycan",
+        "link": "https://github.com/emirbaycan/digital_screen_alarm_with_rtsp_camera"
+      },
+      {
+        "repo": "mefab",
+        "contributionDescription": "Android için sürüklenebilir overlay menü butonu (Floating Action Button) sistemi.",
+        "repoOwner": "Emir Baycan",
+        "link": "https://github.com/emirbaycan/mefab"
+      },
+      {
+        "repo": "medrawer",
+        "contributionDescription": "Minimalist ve özelleştirilebilir çekmece tarzı gezinme bileşeni.",
+        "repoOwner": "Emir Baycan",
+        "link": "https://github.com/emirbaycan/medrawer"
+      },
+      {
+        "repo": "openai-blog-ssg-next",
+        "contributionDescription": "Next.js ve OpenAI ile AI tabanlı bloglar için statik site oluşturucu şablonu.",
+        "repoOwner": "Emir Baycan",
+        "link": "https://github.com/emirbaycan/openai-blog-ssg-next"
+      },
+      {
+        "repo": "openai-blog-ssg-ursus",
+        "contributionDescription": "Ursus ile hazırlanmış, OpenAI destekli bloglar için hazır SSG şablonu.",
+        "repoOwner": "Emir Baycan",
+        "link": "https://github.com/emirbaycan/openai-blog-ssg-ursus"
+      }
+    ],
+    "Experiences": [
+      {
+        "id": "karalar-kagit",
+        "companyName": "Karalar Kağıt",
+        "type": "Profesyonel",
+        "category": [
+          "Web Geliştirme"
+        ],
+        "shortDescription": "Kurumsal web projelerinin analizi ve geliştirilmesinin tüm sorumluluğunu üstlendim.",
+        "websiteLink": "",
+        "techStack": [
+          "C#",
+          "Node.js",
+          "SQL"
+        ],
+        "startDate": "2024-09-01",
+        "endDate": "2024-11-30",
+        "companyLogoImg": "https://assets.emirbaycan.com.tr/images/kk/1.webp",
+        "pagesInfoArr": [],
+        "descriptionDetails": {
+          "paragraphs": [
+            "Kurumsal web projelerinin analizi ve geliştirilmesinin tüm sorumluluğunu üstlendim.",
+            "Müşteri gereksinimlerine göre özel modüller geliştirdim ve devreye aldım.",
+            "Çapraz fonksiyonel ekiplerle entegrasyon ve teknik dokümantasyon süreçlerine katkıda bulundum."
+          ],
+          "bullets": [
+            "Müşteri ihtiyaçlarına göre özel modüller geliştirdim.",
+            "Ekip iş birliği ve teknik dokümantasyon sağladım."
+          ]
+        }
+      },
+      {
+        "id": "myp-law",
+        "companyName": "My Partners Law Office",
+        "type": "Profesyonel",
+        "category": [
+          "Web Geliştirme",
+          "Full Stack"
+        ],
+        "shortDescription": "Hukuk sektörü için dijital otomasyon altyapısı ve özel yönetim panelleri inşa ettim.",
+        "websiteLink": "https://myp.emirbaycan.com.tr",
+        "techStack": [
+          "C#",
+          "Node.js",
+          "React",
+          "Kalenuxer",
+          "SQL"
+        ],
+        "startDate": "2024-01-01",
+        "endDate": "Günümüz",
+        "companyLogoImg": "https://assets.emirbaycan.com.tr/images/myp/1.webp",
+        "pagesInfoArr": [
+          {
+            "title": "Özel Panel",
+            "description": "Dinamik verilerle hukuk bürosu kontrol ve otomasyon panelleri.",
+            "imgArr": [
+              "https://assets.emirbaycan.com.tr/images/myp/1.webp"
+            ]
+          }
+        ],
+        "descriptionDetails": {
+          "paragraphs": [
+            "Dijital altyapı ve otomasyon projelerinin planlanması, geliştirilmesi ve bakımı konusunda sorumluyum.",
+            "Hukuk alanında müşteri yönetimi, dinamik paneller ve doküman otomasyon sistemlerini optimize ettim.",
+            "Kalenuxer altyapısını kullanarak özel kontrol paneli ve kullanıcı yönetimi sağladım."
+          ],
+          "bullets": [
+            "Otomasyon ve müşteri yönetim panelleri geliştirdim.",
+            "Manuel süreçleri web altyapısına taşıdım.",
+            "Hukuki doküman akışını ve kullanıcı yönetimini optimize ettim."
+          ]
+        }
+      },
+      {
+        "id": "eyup-sultan-tulumbacisi",
+        "companyName": "Eyüp Sultan Tulumbacısı",
+        "type": "Profesyonel",
+        "category": [
+          "Web Geliştirme"
+        ],
+        "shortDescription": "Web ve e-ticaret platformu geliştirme ve yayına alma.",
+        "websiteLink": "",
+        "techStack": [
+          "React",
+          "Node.js",
+          "SQL"
+        ],
+        "startDate": "2022-10-01",
+        "endDate": "2022-12-31",
+        "companyLogoImg": "https://assets.emirbaycan.com.tr/images/est/1.webp",
+        "pagesInfoArr": [],
+        "descriptionDetails": {
+          "paragraphs": [
+            "Web ve e-ticaret platformlarının tasarım, geliştirme ve yayına alınmasında aktif rol aldım.",
+            "Ürün yönetimi ve müşteri deneyimi odaklı modüller oluşturdum."
+          ],
+          "bullets": [
+            "Müşteri odaklı modüller geliştirdim.",
+            "E-ticaret kullanıcı deneyimini geliştirdim."
+          ]
+        }
+      },
+      {
+        "id": "legal-proficiency-academy",
+        "companyName": "Legal Proficiency Academy",
+        "type": "Profesyonel",
+        "category": [
+          "Web Geliştirme"
+        ],
+        "shortDescription": "Kapsamlı bir eğitim platformu için kullanıcı ve sınav modüllerini analiz ettim ve geliştirdim.",
+        "websiteLink": "https://hya.emirbaycan.com.tr",
+        "techStack": [
+          "C#",
+          "Node.js",
+          "React"
+        ],
+        "startDate": "2022-03-01",
+        "endDate": "2023-08-31",
+        "companyLogoImg": "https://assets.emirbaycan.com.tr/images/hya/1.webp",
+        "pagesInfoArr": [],
+        "descriptionDetails": {
+          "paragraphs": [
+            "Kapsamlı bir eğitim platformu için kullanıcı ve sınav modüllerinin analizini ve geliştirmesini yaptım.",
+            "Çok seviyeli kullanıcı erişimi ve gerçek zamanlı güncelleme özelliklerine sahip paneller tasarladım."
+          ],
+          "bullets": [
+            "Sınav ve kullanıcı modülleri geliştirdim.",
+            "Gelişmiş admin ve çoklu rol panelleri oluşturdum."
+          ]
+        }
+      },
+      {
+        "id": "therapy-clinic",
+        "companyName": "Terapi Kliniği",
+        "type": "Profesyonel",
+        "category": [
+          "Web Geliştirme"
+        ],
+        "shortDescription": "Müşteri takibi ve online randevu altyapısı geliştirme.",
+        "websiteLink": "",
+        "techStack": [
+          "PHP",
+          "JavaScript",
+          "MySQL"
+        ],
+        "startDate": "2022-02-01",
+        "endDate": "2022-04-30",
+        "companyLogoImg": "https://assets.emirbaycan.com.tr/images/tk/1.webp",
+        "pagesInfoArr": [],
+        "descriptionDetails": {
+          "paragraphs": [
+            "Müşteri takip sistemleri ve online randevu altyapısı geliştirme üzerine çalıştım.",
+            "Laravel tabanlı dinamik web siteleri ve içerik yönetimi uyguladım."
+          ],
+          "bullets": [
+            "Müşteri yönetimi ve online randevu sistemleri geliştirdim.",
+            "Dinamik web altyapısı oluşturdum."
+          ]
+        }
+      },
+      {
+        "id": "morkoc-law-office",
+        "companyName": "Morkoç Hukuk Bürosu",
+        "type": "Profesyonel",
+        "category": [
+          "Web Geliştirme"
+        ],
+        "shortDescription": "Döküman yönetim ve online danışmanlık modülleri geliştirme.",
+        "websiteLink": "",
+        "techStack": [
+          "PHP",
+          "JavaScript",
+          "MySQL"
+        ],
+        "startDate": "2021-07-01",
+        "endDate": "2021-09-30",
+        "companyLogoImg": "https://assets.emirbaycan.com.tr/images/morkoc/1.webp",
+        "pagesInfoArr": [],
+        "descriptionDetails": {
+          "paragraphs": [
+            "Döküman yönetim sistemleri ve online danışmanlık modüllerinin geliştirilmesinde aktif rol aldım."
+          ],
+          "bullets": [
+            "Döküman ve danışmanlık otomasyon modülleri geliştirdim."
+          ]
+        }
+      },
+      {
+        "id": "kalenux",
+        "companyName": "Kalenux",
+        "type": "Profesyonel",
+        "category": [
+          "Web Geliştirme",
+          "Full Stack"
+        ],
+        "shortDescription": "Kurucu & CEO; full-stack uygulama ve mikroservis mimarileri.",
+        "websiteLink": "",
+        "techStack": [
+          "PHP",
+          "JavaScript",
+          "MySQL"
+        ],
+        "startDate": "2021-02-01",
+        "endDate": "2023-02-28",
+        "companyLogoImg": "https://assets.emirbaycan.com.tr/images/kalenuxer/1.webp",
+        "pagesInfoArr": [],
+        "descriptionDetails": {
+          "paragraphs": [
+            "Tüm yazılım geliştirme, ekip yönetimi ve iş geliştirme süreçlerine liderlik ettim.",
+            "Mikroservis ve full-stack uygulama mimarileri kurarak yenilik odaklı projeler yönettim."
+          ],
+          "bullets": [
+            "Modüler bir web framework’ü oluşturdum ve yönettim.",
+            "Yenilikçi ve ölçeklenebilir yazılım projelerine liderlik ettim."
+          ]
+        }
+      },
+      {
+        "id": "karalar-prefabricated",
+        "companyName": "Karalar Prefabrik",
+        "type": "Profesyonel",
+        "category": [
+          "Web Geliştirme"
+        ],
+        "shortDescription": "Kurumsal web sitesi ve müşteri iletişim sistemleri geliştirme.",
+        "websiteLink": "",
+        "techStack": [
+          "PHP",
+          "JavaScript",
+          "MySQL"
+        ],
+        "startDate": "2020-09-01",
+        "endDate": "2020-11-30",
+        "companyLogoImg": "https://assets.emirbaycan.com.tr/images/kp/1.webp",
+        "pagesInfoArr": [],
+        "descriptionDetails": {
+          "paragraphs": [
+            "Kurumsal web sitesi ve müşteri iletişim sistemlerinin analiz ve geliştirilmesinde aktif rol aldım."
+          ],
+          "bullets": [
+            "Kurumsal web ve müşteri etkileşim çözümleri geliştirdim."
+          ]
+        }
+      },
+      {
+        "id": "legal-education-programs",
+        "companyName": "Hukuk Eğitim Programları",
+        "type": "Profesyonel",
+        "category": [
+          "Eğitim",
+          "Web Geliştirme"
+        ],
+        "shortDescription": "Hukuk eğitimi programlarına yönelik web tabanlı yazılım çözümleri.",
+        "websiteLink": "https://hep.emirbaycan.com.tr",
+        "techStack": [
+          "PHP",
+          "JavaScript",
+          "MySQL"
+        ],
+        "startDate": "2020-01-01",
+        "endDate": "2021-01-31",
+        "companyLogoImg": "https://assets.emirbaycan.com.tr/images/hep/1.webp",
+        "pagesInfoArr": [],
+        "descriptionDetails": {
+          "paragraphs": [
+            "Eğitim programlarına yönelik web tabanlı yazılım çözümleri geliştirdim."
+          ],
+          "bullets": [
+            "Hukuk eğitimi yönetim sistemleri oluşturdum."
+          ]
+        }
+      },
+      {
+        "id": "do-eloboost",
+        "companyName": "Do Eloboost",
+        "type": "Profesyonel",
+        "category": [
+          "Web Geliştirme"
+        ],
+        "shortDescription": "Oyun tabanlı platform altyapısı ve otomasyonu.",
+        "websiteLink": "",
+        "techStack": [
+          "PHP",
+          "JavaScript",
+          "MySQL"
+        ],
+        "startDate": "2019-01-01",
+        "endDate": "2023-01-31",
+        "companyLogoImg": "https://assets.emirbaycan.com.tr/images/de/1.webp",
+        "pagesInfoArr": [],
+        "descriptionDetails": {
+          "paragraphs": [
+            "Oyun tabanlı platformun yazılım altyapısının geliştirilmesinden ve otomasyonundan sorumluydum.",
+            "Yönetim panelleri ve müşteri otomasyon modülleri tasarladım."
+          ],
+          "bullets": [
+            "Oyun otomasyon sistemleri oluşturdum.",
+            "Admin ve müşteri kontrol panelleri geliştirdim."
+          ]
+        }
+      },
+      {
+        "id": "murat-bulat-law-office",
+        "companyName": "Murat Bulat Hukuk Bürosu",
+        "type": "Profesyonel",
+        "category": [
+          "Web Geliştirme"
+        ],
+        "shortDescription": "Web tabanlı yazılım ve otomasyon sistemi geliştirme.",
+        "websiteLink": "",
+        "techStack": [
+          "PHP",
+          "JavaScript",
+          "MySQL"
+        ],
+        "startDate": "2019-01-01",
+        "endDate": "2019-04-30",
+        "companyLogoImg": "https://assets.emirbaycan.com.tr/images/mb/1.webp",
+        "pagesInfoArr": [],
+        "descriptionDetails": {
+          "paragraphs": [
+            "Web tabanlı yazılım ve otomasyon sistemlerinin geliştirilmesine katkıda bulundum."
+          ],
+          "bullets": [
+            "Hukuki süreçlerin dijitalleştirilmesini destekledim."
+          ]
+        }
+      },
+      {
+        "id": "entrepreneur-lawyers-association",
+        "companyName": "Girişimci Avukatlar Derneği",
+        "type": "Profesyonel",
+        "category": [
+          "Web Geliştirme"
+        ],
+        "shortDescription": "Derneğe özel dijital projelerin planlanması ve geliştirilmesi.",
+        "websiteLink": "",
+        "techStack": [
+          "PHP",
+          "JavaScript",
+          "MySQL"
+        ],
+        "startDate": "2018-01-01",
+        "endDate": "2019-01-31",
+        "companyLogoImg": "https://assets.emirbaycan.com.tr/images/ghd/1.webp",
+        "pagesInfoArr": [],
+        "descriptionDetails": {
+          "paragraphs": [
+            "Derneğe özel dijital projelerin planlanması ve geliştirilmesinde aktif rol aldım."
+          ],
+          "bullets": [
+            "Derneğin dijital altyapısını kurdum ve sürdürdüm."
+          ]
+        }
+      }
+    ],
+    "routesConfig": {
+      "mainNav": [
+        {
+          "title": "Yetenekler",
+          "href": "/skills"
+        },
+        {
+          "title": "Deneyim",
+          "href": "/experience"
+        },
+        {
+          "title": "Kariyer",
+          "href": "/career"
+        },
+        {
+          "title": "Katkılar",
+          "href": "/contributions"
+        },
+        {
+          "title": "İletişim",
+          "href": "/contact"
+        }
+      ]
+    },
+    "siteConfig": {
+      "name": "Emir Baycan | Geliştirici Portföyü",
+      "authorName": "Emir Baycan",
+      "username": "emirbaycan",
+      "description": "Emir Baycan'ın portföyü – modern, duyarlı, full-stack geliştirici portföyü. Açık kaynaklı bu şablon ile projeler, yetenekler ve kariyer zaman çizelgesi sunulur.",
+      "url": "http://localhost:3000",
+      "links": {
+        "linkedin": "https://linkedin.com/in/emirbaycan",
+        "github": "https://github.com/emirbaycan"
+      },
+      "ogImage": "https://assets.emirbaycan.com.tr/images/kalenuxer/1.webp",
+      "iconIco": "https://assets.emirbaycan.com.tr/favicon.ico",
+      "logoIcon": "https://assets.emirbaycan.com.tr/logo.png",
+      "keywords": [
+        "Emir Baycan",
+        "Yazılım Geliştirici",
+        "Full Stack Geliştirici",
+        "Web Geliştirici Portföyü",
+        "Yapay Zeka Portföyü",
+        "React",
+        "Next.js",
+        "Geliştirici portföy şablonu",
+        "Portföy web sitesi şablonu",
+        "Modern portföy web sitesi",
+        "Frontend geliştirici portföyü",
+        "Backend geliştirici portföyü",
+        "Açık kaynak portföy şablonu",
+        "Otomasyon",
+        "Bulut Geliştirici",
+        "Karanlık modlu portföy",
+        "GitHub portföy şablonu"
+      ]
+    },
+    "skillsUnsorted": [
+      {
+        "name": "C#",
+        "description": "Gelişmiş backend geliştirme, otomasyon ve web API’leri.",
+        "rating": 5,
+        "icon": "csharp"
+      },
+      {
+        "name": "Python",
+        "description": "Yapay zeka, makine öğrenmesi, otomasyon ve backend çözümleri.",
+        "rating": 5,
+        "icon": "python"
+      },
+      {
+        "name": "Node.js",
+        "description": "Ölçeklenebilir backend ve REST API geliştirme.",
+        "rating": 5,
+        "icon": "nodejs"
+      },
+      {
+        "name": "React",
+        "description": "Modern, duyarlı web ve SPA arayüzleri.",
+        "rating": 5,
+        "icon": "react"
+      },
+      {
+        "name": "Yapay Zeka",
+        "description": "Bilgisayarla görü, derin öğrenme ve akıllı otomasyon.",
+        "rating": 5,
+        "icon": "ai"
+      },
+      {
+        "name": "Docker",
+        "description": "Uygulamaların konteynerize edilmesi ve ölçeklenebilir dağıtımı.",
+        "rating": 4,
+        "icon": "docker"
+      },
+      {
+        "name": "FastAPI",
+        "description": "Yüksek performanslı Python web API’leri.",
+        "rating": 4,
+        "icon": "python"
+      },
+      {
+        "name": "Flask",
+        "description": "Hafif Python web uygulamaları.",
+        "rating": 4,
+        "icon": "python"
+      },
+      {
+        "name": "Django",
+        "description": "Tam özellikli Python web framework’ü.",
+        "rating": 4,
+        "icon": "python"
+      },
+      {
+        "name": "Pandas",
+        "description": "Python ile veri analizi ve işleme.",
+        "rating": 4,
+        "icon": "python"
+      },
+      {
+        "name": "NumPy",
+        "description": "Python ile sayısal hesaplama.",
+        "rating": 4,
+        "icon": "python"
+      },
+      {
+        "name": "Matplotlib",
+        "description": "Python’da veri görselleştirme.",
+        "rating": 4,
+        "icon": "python"
+      },
+      {
+        "name": "Scikit-learn",
+        "description": "Python’da makine öğrenmesi.",
+        "rating": 4,
+        "icon": "python"
+      },
+      {
+        "name": "Three.js",
+        "description": "Web için 3B grafikler.",
+        "rating": 3,
+        "icon": "javascript"
+      },
+      {
+        "name": "Redux",
+        "description": "React uygulamaları için durum yönetimi.",
+        "rating": 4,
+        "icon": "redux"
+      },
+      {
+        "name": "Next.js",
+        "description": "Sunucu taraflı render ve statik siteler için React framework’ü.",
+        "rating": 4,
+        "icon": "nextjs"
+      },
+      {
+        "name": "Express.js",
+        "description": "Minimal ve esnek Node.js web uygulama framework’ü.",
+        "rating": 4,
+        "icon": "express"
+      },
+      {
+        "name": "MongoDB",
+        "description": "Modern uygulamalar için NoSQL veritabanı.",
+        "rating": 4,
+        "icon": "mongodb"
+      },
+      {
+        "name": "AWS",
+        "description": "Bulut bilişim ve dağıtım.",
+        "rating": 3,
+        "icon": "aws"
+      },
+      {
+        "name": "Azure",
+        "description": "Microsoft bulut platformu.",
+        "rating": 3,
+        "icon": "azure"
+      },
+      {
+        "name": "Google Cloud",
+        "description": "Google’ın bulut bilişim hizmetleri.",
+        "rating": 3,
+        "icon": "google"
+      },
+      {
+        "name": "Linux",
+        "description": "Sunucu yönetimi ve betik yazımı.",
+        "rating": 4,
+        "icon": "linux"
+      },
+      {
+        "name": "Ubuntu",
+        "description": "Geliştirme ve dağıtım için popüler Linux dağıtımı.",
+        "rating": 4,
+        "icon": "linux"
+      },
+      {
+        "name": "Apache",
+        "description": "Web sunucusu yapılandırması ve yönetimi.",
+        "rating": 3,
+        "icon": "apache"
+      },
+      {
+        "name": "Nginx",
+        "description": "Yüksek performanslı web sunucusu ve ters proxy.",
+        "rating": 3,
+        "icon": "nginx"
+      },
+      {
+        "name": "Jupyter",
+        "description": "Etkileşimli hesaplama ve veri bilimi not defterleri.",
+        "rating": 4,
+        "icon": "python"
+      },
+      {
+        "name": "Shell Script",
+        "description": "Unix sistemlerinde otomasyon ve betik yazımı.",
+        "rating": 3,
+        "icon": "linux"
+      },
+      {
+        "name": "PowerShell",
+        "description": "Windows sistemlerinde otomasyon ve betik yazımı.",
+        "rating": 3,
+        "icon": "windows"
+      },
+      {
+        "name": "SASS",
+        "description": "Ölçeklenebilir ve sürdürülebilir stiller için CSS ön işleyicisi.",
+        "rating": 3,
+        "icon": "sass"
+      },
+      {
+        "name": "Less",
+        "description": "Modern web geliştirme için dinamik stil dili.",
+        "rating": 3,
+        "icon": "less"
+      },
+      {
+        "name": "Bootstrap",
+        "description": "Duyarlı web tasarım için popüler CSS framework’ü.",
+        "rating": 4,
+        "icon": "bootstrap"
+      },
+      {
+        "name": "Figma",
+        "description": "İşbirliğine dayalı arayüz tasarım aracı.",
+        "rating": 3,
+        "icon": "figma"
+      },
+      {
+        "name": "Photoshop",
+        "description": "Sektör standardı görsel düzenleme yazılımı.",
+        "rating": 3,
+        "icon": "photoshop"
+      }
+    ],
+    "SocialLinks": [
+      {
+        "name": "Github",
+        "username": "@emirbaycan",
+        "icon": "Icons.GitHub",
+        "link": "https://github.com/emirbaycan"
+      },
+      {
+        "name": "LinkedIn",
+        "username": "Emir Baycan",
+        "icon": "Icons.Linkedin",
+        "link": "https://linkedin.com/in/emirbaycan"
+      },
+      {
+        "name": "Mail",
+        "username": "emir-baycan",
+        "icon": "Icons.Gmail",
+        "link": "mailto:emir-baycan@hotmail.com"
+      }
+    ]
+  }
+  
